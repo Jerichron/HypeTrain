@@ -1,0 +1,20 @@
+﻿  101023594 - Lab 1.cpp
+c:\users\jeric\desktop\repository\labweek2\labweek2\101023594 - lab 1.cpp(46): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\jeric\desktop\repository\labweek2\labweek2\101023594 - lab 1.cpp(54): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\jeric\desktop\repository\labweek2\labweek2\101023594 - lab 1.cpp(55): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\jeric\desktop\repository\labweek2\labweek2\101023594 - lab 1.cpp(56): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\jeric\desktop\repository\labweek2\labweek2\101023594 - lab 1.cpp(57): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\jeric\desktop\repository\labweek2\labweek2\101023594 - lab 1.cpp(59): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\jeric\desktop\repository\labweek2\labweek2\101023594 - lab 1.cpp(60): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\jeric\desktop\repository\labweek2\labweek2\101023594 - lab 1.cpp(61): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\jeric\desktop\repository\labweek2\labweek2\101023594 - lab 1.cpp(62): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\jeric\desktop\repository\labweek2\labweek2\101023594 - lab 1.cpp(64): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\jeric\desktop\repository\labweek2\labweek2\101023594 - lab 1.cpp(65): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\jeric\desktop\repository\labweek2\labweek2\101023594 - lab 1.cpp(66): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\jeric\desktop\repository\labweek2\labweek2\101023594 - lab 1.cpp(67): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\jeric\desktop\repository\labweek2\labweek2\101023594 - lab 1.cpp(69): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\jeric\desktop\repository\labweek2\labweek2\101023594 - lab 1.cpp(70): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\jeric\desktop\repository\labweek2\labweek2\101023594 - lab 1.cpp(71): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\jeric\desktop\repository\labweek2\labweek2\101023594 - lab 1.cpp(72): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  LabWeek2.vcxproj -> C:\Users\Jeric\Desktop\Repository\LabWeek2\Debug\LabWeek2.exe
+  LabWeek2.vcxproj -> C:\Users\Jeric\Desktop\Repository\LabWeek2\Debug\LabWeek2.pdb (Partial PDB)
