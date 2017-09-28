@@ -119,7 +119,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\Actors\SpecialAbilityComponent.cpp" />
     <ClCompile Include="..\Source.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Xml Include="..\..\Assets\Resources\Lab3.xml">
+      <SubType>Designer</SubType>
+    </Xml>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\Actors\AbilitiesInterface.h" />
+    <ClInclude Include="..\Actors\SpecialAbilityComponent.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

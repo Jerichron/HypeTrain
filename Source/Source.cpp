@@ -12,6 +12,7 @@ int main() {
 	__int64 lpTotalNumberOfBytes = 0;
 	__int64 lpTotalNumberOfFreeBytes = 0;
 	IsOnlyInstance("HypeTrain");
+
 	int Space = GetDiskFreeSpaceEx(NULL, (PULARGE_INTEGER)&lpFreeBytesAvailable, (PULARGE_INTEGER)&lpTotalNumberOfBytes, (PULARGE_INTEGER)&lpTotalNumberOfFreeBytes);
 	cout << "Current space available is: " << lpFreeBytesAvailable/1024 << endl;
 
@@ -78,7 +79,6 @@ DWORD ReadCPUArchitecture() {
 		{
 			BufSize++;
 			error = RegQueryValueEx(hKey, "ProcessorNameString", NULL, &type, (LPBYTE)dwARc, &BufSize);
-			
 		}
 		cout << dwARc << endl;
 	}
